@@ -1,4 +1,4 @@
-module https://github.com/jaijainayaka/webapp
+module github.com/jaijainayaka/webapp
 
 go 1.14
 
